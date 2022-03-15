@@ -8,7 +8,7 @@
 - [VM's](#vms-header)
 
 <h2 id="vyos-header">Vyos</h2>
-To Start use __*configure*__.
+To Start use ***configure***.
 
 ## Step-[1]: Set Interfaces
 
